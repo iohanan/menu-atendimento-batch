@@ -1,0 +1,14 @@
+1 - Paciente internado?
+2 - Alguma necessidade especial?
+3 - Qual o seu peso?
+4 - Motivo ou indicacao clinica?
+5 - Suspeita de Gravidez?
+6 - Senhor (a) tem fobia a local fechado?
+7 - Algum tipo de metal interno no corpo por cirurgia, ou possui piercing?
+8 - Possui alergia grave a algum medicamento?
+9 - Possui marcapasso cardiaco ou clip de aneurisma?
+10 - Tem algum problema na funcao dos rins?
+11 - Senhor (a) faz tratamento oncologico (Quimioterapia) atualmente?
+12 - E operado na parte que vai realizar o exame?
+13 - Senhor (a) tem esclerose multipla?
+14 - Possui alguns desses procedimentos feitos em menos de 30 dias (Tatuagens/Micropigmentaçao ou Maquiagem definitiva)?
